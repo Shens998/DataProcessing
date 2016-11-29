@@ -1,0 +1,33 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.8 (C:\Python27\ArcGIS10.3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.8" />
+      <homePath value="C:\Python27\ArcGIS10.3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Python27/ArcGIS10.3/Lib/site-packages/setuptools-18.1-py2.7.egg!/" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3/Lib/site-packages/pip-7.1.0-py2.7.egg" />
+            <root type="simple" url="file://D:/Intergraph/ERDAS IMAGINE 2013/usr/lib/Win32Release/python" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3/DLLs" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3/Lib" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3/Lib/lib-tk" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3" />
+            <root type="simple" url="file://C:/Python27/ArcGIS10.3/Lib/site-packages" />
+            <root type="simple" url="file://D:/Program Files (x86)/ArcGIS/Desktop10.3/bin" />
+            <root type="simple" url="file://D:/Program Files (x86)/ArcGIS/Desktop10.3/arcpy" />
+            <root type="simple" url="file://D:/Program Files (x86)/ArcGIS/Desktop10.3/ArcToolbox/Scripts" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/1377167382" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
